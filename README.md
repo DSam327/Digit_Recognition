@@ -6,6 +6,8 @@ This is a digit recognition project that trains a neural network to be able to r
 ## Information
 The dataset used for the model is MNIST with an input image shape of 28x28. The algorithm employed is a simple neural network feeded the flattened image. The model is then evaluated against a new dataset to check for overfitting.
 ### Accuracy
-#### Training- 99.41%
-#### Testing- 97.5%
-#### Accuracy with new dataset- 99.29%\n
+Training- 99.41%
+
+Testing- 97.5%
+
+Accuracy with new dataset- 99.29%\n
